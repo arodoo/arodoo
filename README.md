@@ -1,8 +1,8 @@
 ## Hi there, I'm Arodi
 
-##🚀 **Software Development and Management Engineer**
-##💻 Web development specialist
-##🎸 Music and hiking
+## 🚀 **Software Development and Management Engineer**
+## 💻 Web development specialist
+## 🎸 Music and hiking
 
 ---
 
