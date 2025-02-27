@@ -1,15 +1,14 @@
-## Hi there 👋
-## I'm Arodi
+## Hi there, I'm Arodi
 
-🚀 **Software Development and Management Engineer**
-💻 Web development specialist
-🎸 Music and hiking
+##🚀 **Software Development and Management Engineer**
+##💻 Web development specialist
+##🎸 Music and hiking
 
 ---
 
 ![Banner](https://source.unsplash.com/1600x400/?technology,code)
 
-## 🚀 Technologies
+## Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,9 +32,9 @@
 
 ## 📊 GitHub Stats
 
-![Arodi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=tokyonight)
+![Arodi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arodoo&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourGitHubUsername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arodoo&layout=compact&theme=tokyonight)
 
 ---
 
