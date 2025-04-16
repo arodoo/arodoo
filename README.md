@@ -19,7 +19,7 @@
 ✔ Management System Design
 ✔ Database Optimization
 
-🔗 **Portfolio:** [Visit My Work](https://example.com)  
+<!--🔗 **Portfolio:** [Visit My Work](https://example.com)  -->
 
 ## 📊 GitHub Stats  
 
