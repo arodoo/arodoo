@@ -23,8 +23,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=arodoo&show_icons=true&theme=gruvbox&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arodoo&layout=compact&theme=gruvbox&hide_border=true)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=arodoo&layout=compact&hide_border=true&theme=gruvbox&hide=html,css,php,javascript&langs_count=6)
 
 📫 **Let's connect:**
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haro.trabajo@gmail.com)
